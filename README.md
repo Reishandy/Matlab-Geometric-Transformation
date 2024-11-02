@@ -19,7 +19,7 @@ The Geometric Learning Application is a MATLAB-based educational tool that enabl
 ### Installation Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/geometric_learning_app.git
+   git clone git clone https://github.com/username/geometric_learning_app.git
    ```
 2. Open the geometric_learning_media_exported.m file in MATLAB.
 3. Run the file by pressing the Run button in App Designer or in the MATLAB Command Window.
