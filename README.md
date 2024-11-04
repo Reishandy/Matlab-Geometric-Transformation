@@ -1,5 +1,7 @@
 # Geometric Learning Application
 
+![App previ](Menu.png)
+
 **An interactive tool designed for learning geometry through hands-on visualizations and exercises.**
 
 ## Description
