@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration build-checksum="402230947" file="C:\Data\Code\Matlab Project\geometric_learning_media.prj" location="C:\Data\Code\Matlab Project" name="geometric_learning_media" preferred-package-location="C:\Data\Code\Matlab Project\geometric_learning_media\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration build-checksum="402230947" file="C:\Data\Code\GitHub\Matlab-Geometric-Transformation\geometric_learning_media.prj" location="C:\Data\Code\GitHub\Matlab-Geometric-Transformation" name="geometric_learning_media" preferred-package-location="C:\Data\Code\GitHub\Matlab-Geometric-Transformation\geometric_learning_media\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>geometric_learning_media</param.appname>
     <param.icon>${PROJECT_ROOT}\geometric_learning_media_resources\icon.ico</param.icon>
     <param.icons>
@@ -87,6 +87,8 @@
       <file>${PROJECT_ROOT}\Res\Dilatasi 2D.png</file>
       <file>${PROJECT_ROOT}\Res\Dilatasi 3D.png</file>
       <file>${PROJECT_ROOT}\Res\Dilatasi Materi.png</file>
+      <file>${PROJECT_ROOT}\Res\Hasil.png</file>
+      <file>${PROJECT_ROOT}\Res\Latihan Type.png</file>
       <file>${PROJECT_ROOT}\Res\Menu.png</file>
       <file>${PROJECT_ROOT}\Res\Refleksi 2D.png</file>
       <file>${PROJECT_ROOT}\Res\Refleksi 3D.png</file>
@@ -99,9 +101,9 @@
       <file>${PROJECT_ROOT}\Res\Translasi Materi.png</file>
     </fileset.depfun>
     <build-deliverables>
-      <file location="${PROJECT_ROOT}\geometric_learning_media\for_testing" name="geometric_learning_media.exe" optional="false">C:\Data\Code\Matlab Project\geometric_learning_media\for_testing\geometric_learning_media.exe</file>
-      <file location="${PROJECT_ROOT}\geometric_learning_media\for_testing" name="splash.png" optional="false">C:\Data\Code\Matlab Project\geometric_learning_media\for_testing\splash.png</file>
-      <file location="${PROJECT_ROOT}\geometric_learning_media\for_testing" name="readme.txt" optional="true">C:\Data\Code\Matlab Project\geometric_learning_media\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\geometric_learning_media\for_testing" name="readme.txt" optional="true">C:\Data\Code\GitHub\Matlab-Geometric-Transformation\geometric_learning_media\for_testing\readme.txt</file>
+      <file location="${PROJECT_ROOT}\geometric_learning_media\for_testing" name="splash.png" optional="false">C:\Data\Code\GitHub\Matlab-Geometric-Transformation\geometric_learning_media\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\geometric_learning_media\for_testing" name="geometric_learning_media.exe" optional="false">C:\Data\Code\GitHub\Matlab-Geometric-Transformation\geometric_learning_media\for_testing\geometric_learning_media.exe</file>
     </build-deliverables>
     <workflow />
     <matlab>
